@@ -1,5 +1,5 @@
 
-# Data Visualization - Section Recap
+# Section Recap
 
 ## Introduction 
 
@@ -13,7 +13,7 @@ You will be able to:
 * Show mastery of the content covered in this section. 
 
 
-## Matplotlib
+## Key Takeaways
 
 We began this section by getting some deeper practice with Python's most popular data visualization library, **_Matplotlib_**! We got some practice with things like different kinds of plots, setting labels and axes, modifying line ticks, adding a legend, and even using color in our visualizations.  We also learned about how to place multiple plots together as a **_subplot_**, and how we can write clean, efficient code when building these by making use of the `enumerate` keyword for our loops. 
 
